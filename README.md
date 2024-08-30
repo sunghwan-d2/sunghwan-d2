@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sunghwan</h1>
-<h3 align="center">개발자가 되고싶은 🏊🏻‍♀️💻</h3>
+<h3 align="center">개발자가 꿈꾸고 있습니다. 🏊🏻‍♀️💻</h3>
 
 - 📫 How to reach me **ghktkf789@gmail.com**
 
